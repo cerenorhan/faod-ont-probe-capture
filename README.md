@@ -1,5 +1,7 @@
 # FAOD ONT Probe-Capture Workflow
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23434965.svg)](https://doi.org/10.5281/zenodo.23434965)
+
 Reproducibility repository accompanying the manuscript evaluating an established amplicon-based long-read PCR/ONT workflow and a custom probe-capture ONT workflow for molecular analysis of fatty acid oxidation disorders.
 
 ## Repository contents
@@ -30,6 +32,14 @@ The repository includes derived data supporting:
 
 The repository includes the final clinical-status v3.2 processing pipelines used for the V2 LR-PCR/ONT and V3 probe-capture/ONT workflows, including the BAM-level safety-net interrogation framework.
 
+## Reproducibility archive
+
+The versioned reproducibility release associated with this manuscript is permanently archived in Zenodo.
+
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.23434965
+
 ## Citation
 
-A versioned release of this repository will be archived in Zenodo and assigned a DOI.
+Please cite the associated manuscript together with the archived Zenodo release when reusing the analytical workflow, scripts, or publication-derived datasets.
+
+**DOI:** https://doi.org/10.5281/zenodo.23434965
