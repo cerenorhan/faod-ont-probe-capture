@@ -1,0 +1,29 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.pod5
+
+# Alignment files
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Variant files
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.bcf
+
+# Temporary / system files
+*.tmp
+*.temp
+~$*
+.DS_Store
+__pycache__/
+*.pyc
+
+# Logs
+*.log
