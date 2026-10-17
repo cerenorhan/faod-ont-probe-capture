@@ -1,0 +1,4 @@
+Group	Pairwise_Comparisons	Shared_Variants_Median	Jaccard_Min_pct	Jaccard_Median_pct	Jaccard_Max_pct	GT_Concordance_Min_pct	GT_Concordance_Median_pct	GT_Concordance_Max_pct	Mean_AF_Difference_Min	Mean_AF_Difference_Median	Mean_AF_Difference_Max
+ReplicateA	6	50.0	96.2	98.1	100.0	100.0	100.0	100.0	0.0195	0.028450000000000003	0.0346
+ReplicateB	6	54.0	98.2	99.1	100.0	100.0	100.0	100.0	0.018	0.022199999999999998	0.0298
+TechnicalReplicate	1	43.0	100.0	100.0	100.0	100.0	100.0	100.0	0.024	0.024	0.024

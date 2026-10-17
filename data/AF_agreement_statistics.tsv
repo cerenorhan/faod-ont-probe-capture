@@ -1,0 +1,9 @@
+Metric	Value
+n_matched_AF_pairs	11.0
+Pearson_r	0.7474247761384141
+Pearson_p	0.008189654852541714
+Spearman_rho	0.5284751751907181
+Spearman_p	0.09467273983443368
+BlandAltman_bias_Probe_minus_PCR	0.20543636363636367
+BlandAltman_LOA_lower	-0.10658166579049203
+BlandAltman_LOA_upper	0.5174543930632194

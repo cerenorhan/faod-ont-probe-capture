@@ -1,0 +1,12 @@
+Metric	Value
+Matched clinically relevant variants	11.0
+Genotype-concordant matched variants	7.0
+Genotype-shift matched variants	4.0
+Pearson_r	0.7474247761384141
+Pearson_p	0.008189654852541714
+Spearman_rho	0.5284751751907181
+Spearman_p	0.09467273983443368
+Genotype-concordant AF pairs	7.0
+V2 median absolute AF deviation	0.1089
+V3 median absolute AF deviation	0.01859999999999995
+AF deviation paired Wilcoxon p	0.015625

@@ -1,0 +1,9 @@
+Metric	Value
+PCR discovery cohort	52
+PCR samples with >=1 P/LP or Conflict-P	38
+Unique P/LP + Conflict-P genomic alleles	18
+Unique genes represented in PCR clinical set	8
+Biological samples selected for Probe	14
+Selected samples with >=1 PCR P/LP or Conflict-P	12
+Clinical alleles represented in Probe subgroup	11
+Genes represented in Probe subgroup	6

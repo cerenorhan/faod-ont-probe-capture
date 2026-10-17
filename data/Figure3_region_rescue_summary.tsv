@@ -1,0 +1,10 @@
+Metric	Value
+Total_intervals	141
+Intervals_improved_ge30x	43
+Intervals_equal_ge30x	98
+Intervals_worse_ge30x	0
+Intervals_plus100pp_ge30x	40
+Intervals_improved_ge100x	56
+Intervals_equal_ge100x	85
+Intervals_worse_ge100x	0
+Intervals_plus100pp_ge100x	50
